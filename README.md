@@ -1,5 +1,9 @@
 # E-39 Indoor Positioning System (IPS)
 
+[![IPS](https://live.staticflickr.com/65535/40778036283_aee7dfd554_k.jpg)]
+[![IPS](https://live.staticflickr.com/65535/47691862812_6ad5e89b7b_k.jpg)]
+[![IPS](https://live.staticflickr.com/65535/32801179997_6f17fc1113_k.jpg)]
+
 This is 1 of a 2 part System that allows you to find the position of a robot within a room. The other half is an infrared transmitting beacon (IPS TX). The IPS has two cameras that alternate frames. One camera has a normal lens with an Infrared blocking filter and the other has an infrared sensitive lens with a daylight blocking filter.
 
 ## Contents

@@ -4,6 +4,8 @@
 ![IPS](https://live.staticflickr.com/65535/47752093741_de2e21d5d2_k.jpg)
 ![IPS](https://live.staticflickr.com/65535/32808700827_8a51697d4c_k.jpg)
 
+This requires the IPS Transmitter: https://github.com/synthiam/E-44_IPS_Transmitter
+
 This is 1 of a 2 part System that allows you to find the position of a robot within a room. The other half is an infrared transmitting beacon (IPS TX). The IPS has two cameras that alternate frames. One camera has a normal lens with an Infrared blocking filter and the other has an infrared sensitive lens with a daylight blocking filter.
 
 ## Contents

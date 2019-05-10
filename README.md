@@ -12,9 +12,9 @@ This is 1 of a 2 part System that allows you to find the position of a robot wit
 
 ## Contents
 
-**Documentation:** Schematic PDF, Datasheet PDF, BOM
+**Documentation:** Schematic PDF, Datasheet PDF, BOM, Assembly PDFs
 
-**Hardware:** Altium PCB design File, Altium SCH Design File
+**Hardware:** Altium PCB design File, Altium SCH Design File, Gerbers
 
 **Firmware:** Code, Compiled Binary
 

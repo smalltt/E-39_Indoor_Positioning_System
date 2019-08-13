@@ -6,9 +6,11 @@
 
 This requires the IPS Transmitter: https://github.com/synthiam/E-44_IPS_Transmitter
 
-The EZ-Builder behavior control for this reference design can be found here: https://synthiam.com/Software/Manual/Indoor-Positioning-System-17492
-
 This is 1 of a 2 part System that allows you to find the position of a robot within a room. The other half is an infrared transmitting beacon (IPS TX). The IPS has two cameras that alternate frames. One camera has a normal lens with an Infrared blocking filter and the other has an infrared sensitive lens with a daylight blocking filter.
+
+A unique feature of this design is that it uses wide angle lenses and can detect the IPS TX at many different angles. Combined with the IPS TX, used as an illuminator, this design can also be used for night vision.
+
+The EZ-Builder behavior control for this reference design can be found here: https://synthiam.com/Software/Manual/Indoor-Positioning-System-17492
 
 ## Contents
 
@@ -20,7 +22,7 @@ This is 1 of a 2 part System that allows you to find the position of a robot wit
 
 ## License
 
-For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else party on!
+For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
 Please see LICENSE.md for license details.
 

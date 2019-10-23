@@ -24,6 +24,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - Voltage requirement: 3.2-16VDC (3.3V (EZ-B) or 5V (USB) Typical)
 - Current draw: 200mA
 - Dimensions: 37.7(W) x 51.5(L) x 16(H) (mm)
+- Weight: 11g
 
 **Major components:** 
 - STM32F407VET6 32-bit Cortex-M4 ARM microcontroller (custom firmware provided)

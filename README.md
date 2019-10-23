@@ -63,7 +63,7 @@ The EZ-Builder behavior control for this reference design is very easy to use! S
 
 Link: https://synthiam.com/Software/Manual/Indoor-Positioning-System-17492
 
-<a href="https://synthiam.com/Software/Manual/Indoor-Positioning-System-17492"><img src="https://media.giphy.com/media/SvKddQhibbDmG6ItxO/giphy.gif" width="683" height="383"></a>
+<a href="https://synthiam.com/Software/Manual/Indoor-Positioning-System-17492"><img src="E-39.gif" width="683" height="383"></a>
 
 ## Contact
 

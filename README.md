@@ -59,7 +59,7 @@ This project requires the IPS Transmitter: https://github.com/synthiam/E-44_IPS_
 
 ## EZ-Builder Behavior Control
 
-The EZ-Builder behavior control for this reference design is very easy to use! Simply add an animation frame, click on the pixels, choose the color, and repeat! Activate the animations with the click of a mouse button or with code. 
+The EZ-Builder behavior control for this reference design is very easy to use! Simply click on the area you'd like the robot to move to and it moves there! 
 
 Link: https://synthiam.com/Software/Manual/Indoor-Positioning-System-17492
 

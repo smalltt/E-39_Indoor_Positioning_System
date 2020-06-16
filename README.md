@@ -6,7 +6,7 @@ If you are new to GitHub and would like to create a derivative of this project, 
 
 ## Description
 
-Out of our passion to solve the issue of time waste in the robot creation process, EZ-Builder was born. The EZ-Builder software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
+Out of our passion to solve the issue of time waste in the robot creation process, ARC was born. The ARC software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
 
 We didn't stop at the software, we also made time saving hardware solutions. This IPS reference design is one of them. The IPS has two cameras that alternate frames. One camera has a normal lens with an Infrared blocking filter and the other has an infrared sensitive lens with a daylight blocking filter. A unique feature of this design is that it uses wide angle lenses and can detect the IPS TX at many different angles. We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
@@ -58,9 +58,9 @@ This project requires the IPS Transmitter: https://github.com/synthiam/E-44_IPS_
 <img src="https://live.staticflickr.com/65535/47752093741_de2e21d5d2_k.jpg" width="683" height="383">
 <img src="https://live.staticflickr.com/65535/32808700827_8a51697d4c_k.jpg" width="683" height="383"></p>
 
-## EZ-Builder Behavior Control
+## ARC Skill
 
-The EZ-Builder behavior control for this reference design is very easy to use! Simply click on the area you'd like the robot to move to and it moves there! 
+The ARC skill for this reference design is very easy to use! Simply click on the area you'd like the robot to move to and it moves there! 
 
 Link: https://synthiam.com/Software/Manual/Indoor-Positioning-System-17492
 

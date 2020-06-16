@@ -34,8 +34,8 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 **Manufacturing notes:** 
 1. Supplier: programs custom firmware into the STM32F407VET6 at their facility before sending to manufacturer
 2. Supplier: provides pre-built HDF3M-811 OV2640 Cameras with custom ribbon length
-3. Supplier: provides HDF3M-811 OV2640 Camera with custom IR filter and Wide anlge lens 
-4. Supplier: provides HDF3M-811 OV2640 Camera with custom Daylight filter and Wide anlge lens 
+3. Supplier: provides HDF3M-811 OV2640 Camera with custom IR filter and Wide angle lens 
+4. Supplier: provides HDF3M-811 OV2640 Camera with custom Daylight filter and Wide angle lens 
 5. Manufacturer: Dual side placement and soldering of SMT components
 6. Manufacturer: Single Side soldering of THT components
 

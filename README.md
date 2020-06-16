@@ -20,7 +20,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - On-board 3.3V, 2.8V and 1.5V voltage regulation
 - 5V tolerant I/O pins
 - RGB status indicator
-- EZ-Builder behavior control available
+- ARC skill available
 - Voltage requirement: 3.2-16VDC (3.3V (EZ-B) or 5V (USB) Typical)
 - Current draw: 200mA
 - Dimensions: 37.7(W) x 51.5(L) x 16(H) (mm)
